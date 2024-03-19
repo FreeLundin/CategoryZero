@@ -25,14 +25,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Interaction",
-			"Enabled": true
-		},
-		{
-			"Name": "ParkourSystem",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
